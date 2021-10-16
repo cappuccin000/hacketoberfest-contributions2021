@@ -3,7 +3,7 @@
 #include<string.h>
 #include<stdlib.h>
 #include<ctype.h>
-
+// This code implements the function of Lexical Analyser using C programming language
 struct TOKEN{
     char token_name[20], attri_val[20];
 }temp1,temp2;
